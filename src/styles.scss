@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+  }
+
+.light {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  display: inline-block;
+  margin-right: 6px;
+}
+
+.status {
+  display: inline-block;
+}
+
+.light.green {
+  background-color: green;
+}
+
+.light.red {
+  background-color: red;
+}
+
+.light.yellow {
+  background-color: yellow;
+}
+
+.container {
+  background-color: black;
+  color: white;
+  padding: 60px;
+}
+
+.card {
+  background-color: grey;
+  border-radius: 20px;
+}
+
+
+
+
+ 
